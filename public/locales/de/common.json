@@ -29,7 +29,7 @@
         },
         "noUploads": {
             "title": "Kein Upload auf Server",
-            "description": "100% clientseitig, Ihre Dateien verlassen nie Ihr Gerät."
+            "description": "100% clientseitig, deine Dateien verlassen nie dein Gerät."
         },
         "foreverFree": {
             "title": "Für immer kostenlos",
@@ -37,11 +37,11 @@
         },
         "noLimits": {
             "title": "Keine Limits",
-            "description": "Nutzen Sie so viel Sie wollen, ohne versteckte Grenzen."
+            "description": "Nutzen es so viel du magst, ohne versteckte Grenzen."
         },
         "batchProcessing": {
             "title": "Stapelverarbeitung",
-            "description": "Verarbeiten Sie unbegrenzt viele PDFs auf einmal."
+            "description": "Verarbeite unbegrenzt viele PDFs auf einmal."
         },
         "lightningFast": {
             "title": "Blitzschnell",
@@ -49,14 +49,14 @@
         }
     },
     "tools": {
-        "title": "Starten Sie mit",
-        "toolsLabel": "Werkzeuge",
-        "subtitle": "Klicken Sie auf ein Werkzeug, um den Datei-Uploader zu öffnen",
+        "title": "Starte mit",
+        "toolsLabel": "Werkzeugen",
+        "subtitle": "Klick auf ein Werkzeug, um den Datei-Uploader zu öffnen",
         "searchPlaceholder": "Werkzeug suchen (z.B. 'teilen', 'organisieren'...)",
         "backToTools": "Zurück zu den Werkzeugen"
     },
     "upload": {
-        "clickToSelect": "Klicken Sie, um eine Datei auszuwählen",
+        "clickToSelect": "Klick, um eine Datei auszuwählen",
         "orDragAndDrop": "oder per Drag & Drop",
         "pdfOrImages": "PDFs oder Bilder",
         "filesNeverLeave": "Ihre Dateien verlassen nie Ihr Gerät.",
