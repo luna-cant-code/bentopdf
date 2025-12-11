@@ -18,17 +18,17 @@
         "startUsing": "Jetzt starten"
     },
     "usedBy": {
-        "title": "Verwendet von Unternehmen und Mitarbeitern bei"
+        "title": "Verwendet von Unternehmen und Mitarbeitenden bei"
     },
     "features": {
         "title": "Warum",
         "bentoPdf": "BentoPDF?",
         "noSignup": {
             "title": "Keine Anmeldung",
-            "description": "Sofort starten, keine Konten oder E-Mails erforderlich."
+            "description": "Sofort starten, keine Registrierung erforderlich."
         },
         "noUploads": {
-            "title": "Kein Upload",
+            "title": "Kein Upload auf Server",
             "description": "100% clientseitig, Ihre Dateien verlassen nie Ihr Gerät."
         },
         "foreverFree": {
@@ -50,7 +50,7 @@
     },
     "tools": {
         "title": "Starten Sie mit",
-        "toolsLabel": "Werkzeugen",
+        "toolsLabel": "Werkzeuge",
         "subtitle": "Klicken Sie auf ein Werkzeug, um den Datei-Uploader zu öffnen",
         "searchPlaceholder": "Werkzeug suchen (z.B. 'teilen', 'organisieren'...)",
         "backToTools": "Zurück zu den Werkzeugen"
@@ -64,14 +64,14 @@
         "clearAll": "Alle löschen"
     },
     "loader": {
-        "processing": "Verarbeitung..."
+        "processing": "Verarbeite..."
     },
     "alert": {
         "title": "Hinweis",
         "ok": "OK"
     },
     "preview": {
-        "title": "Dokumentvorschau",
+        "title": "Dokumentenvorschau",
         "downloadAsPdf": "Als PDF herunterladen",
         "close": "Schließen"
     },
